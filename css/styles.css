@@ -1,0 +1,209 @@
+#title
+{
+    background-color: #ff4c68;
+    color: white;
+}
+h1{
+    font-family: "Montserrat, sans-serif";
+    line-height: 1.5;
+    font-size: 3.5rem;
+    
+}
+body{
+    font-family: "Montserrat";
+}
+.fluid-container{
+    padding: 2% 15%;
+    font-size: 15px;
+}
+.download-button
+{
+    margin: 8% 4% 23% -2%;
+}
+h3{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+.navbar
+{
+    padding-bottom: 8%;
+}
+/* title image */
+.title-image{
+    width: 60%;
+   
+    transform: rotate(30deg);
+    right: 30%;
+    position: relative;
+    right: -17%;
+    
+}
+
+.navbar-brand{
+    font-family:"ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+/* feature section */
+#features{
+    margin: 7% 15%;
+}
+.features-box{
+    text-align: center;
+    padding: 5%;
+}
+/* changing icon color */
+.icon
+{
+ color: #ef8172;
+ padding: 20px;
+
+}
+
+
+/* testimonials section */
+#testimonials{
+    
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: #ff4c68;
+    color: white;
+    
+
+}
+
+    
+.testimonials-box{
+    padding: 7% 15%;
+}
+#testimonials h2{
+    text-align: center;
+    font-size: 3rem;
+    
+}
+.testimonials-image
+{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+/* press section */
+#press{
+    background-color: #ff4c68;
+    
+    padding: 0px 14px 26px 53px;
+    
+}
+.press-immages
+{
+    font-size: 1rem;
+}
+/* pricing-section */
+#pricing
+{
+    
+    text-align: center;
+}
+.pricing-head{
+    text-align: center;
+    font-size: 1rem;
+    margin: 4rem;
+}
+.pricing-head h2{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.card-title-font{
+    font-family: 'Bebas Neue', cursive;
+}
+.card-margin
+{
+    margin: 0.5rem;
+}
+/* cta section */
+#cta{
+    background-color:#ff4c68 ;
+    color: white;
+    padding:7% 15%;
+    text-align: center;
+    
+}
+.cta-heading{
+    font-family: 'Montserrat', black;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+/* footer */
+#footer{
+    background-color :white;
+    color: black;
+    text-align: center;
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media( max-width: 991px)
+{
+    .title-image{
+        transform:initial;
+        right: auto;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
